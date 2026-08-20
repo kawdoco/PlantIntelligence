@@ -32,3 +32,5 @@ PlantIntelligence/
 │   ├── templates/     # View templates (HTML)
 │   └── application.properties # Supabase PostgreSQL connection configs
 └── firmware/          # ESP32 C++ source code for telemetry
+
+[View Hardware Wiring and Component Pinout Guide](./hardware_wiring.md)
